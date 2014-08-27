@@ -12,7 +12,6 @@ images/June-Lucys.png
 images/here-band-hear.png
 images/BIG-RUN.png
 images/s-i-75.png
-images/IT-IS.png
 images/James-Mary.png
 images/s-i-46.png
 images/apple-mew.png
@@ -49,7 +48,6 @@ images/tuck-safe.png
 images/boy-our.png
 images/hen-fat.png
 images/strong-round.png
-images/CAT-MAT.png
 images/beach-shells.png
 images/care-always.png
 images/i-78.png
