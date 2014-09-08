@@ -8,8 +8,9 @@ body, body.tei.tei-text {
     }
 h3  {
      fontsize:80%;
+     text-align:center;
     }
-div, p, pre, h1, h2,  h4, h5, h6 {
+div, p, h1, h2,  h4, h5, h6 {
     margin-left: 20%;
     margin-right: 20%;
     }
@@ -47,7 +48,13 @@ p  {
    vertical-align:middle;
 }
 
- 
+pre {
+     text-align:left;
+     font-size:80%;
+     margin-left:5%;
+     margin-right:5%;
+     line-height:100%;
+    } 
  
 tt {
     color:#999999;
