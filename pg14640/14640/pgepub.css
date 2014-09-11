@@ -50,10 +50,11 @@ p  {
 
 pre {
      text-align:left;
-     font-size:80%;
+     font-size:120%;
      margin-left:5%;
      margin-right:5%;
      line-height:100%;
+     font-family: monospace;
     } 
  
 tt {
