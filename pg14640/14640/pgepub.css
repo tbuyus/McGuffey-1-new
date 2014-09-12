@@ -6,10 +6,10 @@ body, body.tei.tei-text {
     border: 0;
     padding: 0
     }
-h3  {
-     fontsize:80%;
+h3 , pre {
+     font-size:80%;
     }
-div, p, pre, h1, h2,  h4, h5, h6 {
+div, p,  h1, h2,  h4, h5, h6 {
     margin-left: 20%;
     margin-right: 20%;
     }
