@@ -21,7 +21,7 @@
     </navPoint>
     <navPoint id="np-2" playOrder="2">
       <navLabel>
-        <text>THE ALPHABET.</text>
+        <text>THE ALPHABET. THE NUMBERS. PHONIC CHART</text>
       </navLabel>
       <content src="f1.html#id00039"/>
       <navPoint id="np-3" playOrder="3">
@@ -449,12 +449,6 @@
           <text>LESSON LXIII.</text>
         </navLabel>
         <content src="f2.html#id00617"/>
-      </navPoint>
-      <navPoint id="np-74" playOrder="74">
-        <navLabel>
-          <text>PHONIC CHART.</text>
-        </navLabel>
-        <content src="f2.html#id00627"/>
       </navPoint>
       </navPoint>
   </navMap>
