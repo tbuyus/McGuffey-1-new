@@ -13,516 +13,604 @@
     <text>McGuffey's First Eclectic Reader, Revised Edition</text>
   </docTitle>
   <navMap>
+
     <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>TRANSCRIBER'S NOTES (BY DON KUTSCH).</text>
+      </navLabel>
+      <content src="f1.html#id00008"/>
+    </navPoint>
+   
+    <navPoint id="np-2" playOrder="2">
       <navLabel>
         <text>ECLECTIC EDUCATIONAL SERIES.</text>
       </navLabel>
       <content src="f1.html#id00013"/>
     </navPoint>
-    <navPoint id="np-2" playOrder="2">
+
+    <navPoint id="np-3" playOrder="3">
+      <navLabel>
+        <text>PREFACE (1879)</text>
+      </navLabel>
+      <content src="f1.html#id00029"/>
+    </navPoint>
+
+    <navPoint id="np-4" playOrder="4">
+      <navLabel>
+        <text>WHY AUGMENTED ENGLISH? (BY TOBIAS PEERS)</text>
+      </navLabel>
+      <content src="f1.html#id00038"/>
+    </navPoint>
+
+    <navPoint id="np-5" playOrder="5">
       <navLabel>
         <text>THE ALPHABET</text>
       </navLabel>
       <content src="f1.html#id00039"/>
     </navPoint>
-    <navPoint id="np-3" playOrder="3">
+
+    <navPoint id="np-6" playOrder="6">
       <navLabel>
         <text>SCRIPT FIGURES</text>
       </navLabel>
       <content src="f1.html#id00045"/>
     </navPoint>
-    <navPoint id="np-4" playOrder="4">
+
+    <navPoint id="np-7" playOrder="7">
       <navLabel>
         <text>PHONIC CHART</text>
       </navLabel>
       <content src="f1.html#id00047"/>
+    </navPoint>
        
-    <navPoint id="np-5" playOrder="5">
+    <navPoint id="np-8" playOrder="8">
       <navLabel>
         <text>SILENT LETTERS</text>
       </navLabel>
       <content src="f1.html#id00627"/>
     </navPoint>
     
-    <navPoint id="np-6" playOrder="6">
+    <navPoint id="np-9" playOrder="9">
       <navLabel>
         <text>SCHWAS</text>
       </navLabel>
       <content src="f1.html#id00628"/>
     </navPoint>
    
-    <navPoint id="np-7" playOrder="7">
+    <navPoint id="np-10" playOrder="10">
       <navLabel>
         <text>SHORT VOWELS</text>
       </navLabel>
       <content src="f1.html#id00629"/>
     </navPoint>
     
-    <navPoint id="np-8" playOrder="8">
+    <navPoint id="np-11" playOrder="11">
       <navLabel>
         <text>LONG VOWELS</text>
       </navLabel>
       <content src="f1.html#id00630"/>
     </navPoint>
      
-    <navPoint id="np-9" playOrder="9">
+    <navPoint id="np-12" playOrder="12">
       <navLabel>
         <text>OTHER VOWELS</text>
       </navLabel>
       <content src="f1.html#id00631"/>
     </navPoint>
      
-    <navPoint id="np-10" playOrder="10">
+    <navPoint id="np-13" playOrder="13">
       <navLabel>
         <text>SUBSTITUTES VOWELS</text>
       </navLabel>
       <content src="f1.html#id00632"/>
     </navPoint>
      
-    <navPoint id="np-11" playOrder="11">
+    <navPoint id="np-14" playOrder="14">
       <navLabel>
         <text>ASPIRATES (UNOICED)</text>
       </navLabel>
       <content src="f1.html#id00633"/>
     </navPoint>
-     
-    <navPoint id="np-12" playOrder="12">
+
+      <navPoint id="np-15" playOrder="15">
       <navLabel>
         <text>SUBVOCALS VOICED</text>
       </navLabel>
       <content src="f1.html#id00634"/>
-    </navPoint>
-     
-    <navPoint id="np-13" playOrder="13">
+    </navPoint> 
+
+    <navPoint id="np-16" playOrder="16">
       <navLabel>
         <text>SUBSTITUTES CONSONANTS</text>
       </navLabel>
       <content src="f1.html#id00635"/>
     </navPoint>
-     
-   </navPoint>
 
-      <navPoint id="np-14" playOrder="14">
+    <navPoint id="np-17" playOrder="17">
         <navLabel>
           <text>LESSON I.</text>
         </navLabel>
         <content src="f1.html#id00049"/>
       </navPoint>
-      <navPoint id="np-15" playOrder="15">
+
+      <navPoint id="np-18" playOrder="18">
         <navLabel>
           <text>LESSON II.</text>
         </navLabel>
         <content src="f1.html#id00055"/>
       </navPoint>
-      <navPoint id="np-16" playOrder="16">
+
+      <navPoint id="np-19" playOrder="19">
         <navLabel>
           <text>LESSON III.</text>
         </navLabel>
         <content src="f1.html#id00062"/>
       </navPoint>
-      <navPoint id="np-17" playOrder="17">
+
+      <navPoint id="np-20" playOrder="20">
         <navLabel>
           <text>LESSON IV.</text>
         </navLabel>
         <content src="f1.html#id00071"/>
       </navPoint>
-      <navPoint id="np-18" playOrder="18">
+
+      <navPoint id="np-21" playOrder="21">
         <navLabel>
           <text>LESSON V.</text>
         </navLabel>
         <content src="f1.html#id00079"/>
       </navPoint>
-      <navPoint id="np-19" playOrder="19">
+
+      <navPoint id="np-22" playOrder="22">
         <navLabel>
           <text>LESSON VI.</text>
         </navLabel>
         <content src="f1.html#id00086"/>
       </navPoint>
-      <navPoint id="np-20" playOrder="20">
+
+      <navPoint id="np-23" playOrder="23">
         <navLabel>
           <text>LESSON VII.</text>
         </navLabel>
         <content src="f1.html#id00094"/>
       </navPoint>
-      <navPoint id="np-21" playOrder="21">
+
+      <navPoint id="np-24" playOrder="24">
         <navLabel>
           <text>LESSON VIII.</text>
         </navLabel>
         <content src="f1.html#id00104"/>
       </navPoint>
-      <navPoint id="np-22" playOrder="22">
+
+      <navPoint id="np-25" playOrder="25">
         <navLabel>
           <text>LESSON IX. REVIEW.</text>
         </navLabel>
         <content src="f1.html#id00109"/>
-        <navPoint id="np-23" playOrder="23">
+      </navPoint>
+
+        <navPoint id="np-26" playOrder="26">
           <navLabel>
             <text>SLATE WORK.</text>
           </navLabel>
           <content src="f1.html#id00115"/>
         </navPoint>
-      </navPoint>
-      <navPoint id="np-24" playOrder="24">
+      
+       <navPoint id="np-27" playOrder="27">
         <navLabel>
           <text>LESSON X.</text>
         </navLabel>
         <content src="f1.html#id00119"/>
       </navPoint>
-      <navPoint id="np-25" playOrder="25">
+      
+       <navPoint id="np-28" playOrder="28">
         <navLabel>
           <text>LESSON XI.</text>
         </navLabel>
         <content src="f1.html#id00128"/>
       </navPoint>
-      <navPoint id="np-26" playOrder="26">
+
+      <navPoint id="np-29" playOrder="29">
         <navLabel>
           <text>LESSON XII.</text>
         </navLabel>
         <content src="f1.html#id00138"/>
       </navPoint>
-      <navPoint id="np-27" playOrder="27">
+
+      <navPoint id="np-30" playOrder="30">
         <navLabel>
           <text>LESSON XIII.</text>
         </navLabel>
         <content src="f1.html#id00146"/>
       </navPoint>
-      <navPoint id="np-28" playOrder="28">
+
+      <navPoint id="np-31" playOrder="31">
         <navLabel>
           <text>LESSON XIV.</text>
         </navLabel>
         <content src="f1.html#id00153"/>
       </navPoint>
-      <navPoint id="np-29" playOrder="29">
+
+      <navPoint id="np-32" playOrder="32">
         <navLabel>
           <text>LESSON XV.</text>
         </navLabel>
         <content src="f1.html#id00162"/>
       </navPoint>
-      <navPoint id="np-30" playOrder="30">
+
+      <navPoint id="np-33" playOrder="33">
         <navLabel>
           <text>LESSON XVI. REVIEW.</text>
         </navLabel>
         <content src="f1.html#id00169"/>
       </navPoint>
-      <navPoint id="np-31" playOrder="31">
+
+      <navPoint id="np-34" playOrder="34">
         <navLabel>
           <text>LESSON XVII.</text>
         </navLabel>
         <content src="f1.html#id00175"/>
-        <navPoint id="np-32" playOrder="32">
+      </navPoint>
+
+        <navPoint id="np-35" playOrder="35">
           <navLabel>
             <text>SLATE WORK</text>
           </navLabel>
           <content src="f1.html#id00177"/>
         </navPoint>
-        <navPoint id="np-33" playOrder="33">
+
+        <navPoint id="np-36" playOrder="36">
           <navLabel>
             <text>LESSON XVIII.</text>
           </navLabel>
           <content src="f1.html#id00179"/>
         </navPoint>
-        <navPoint id="np-34" playOrder="34">
+
+        <navPoint id="np-37" playOrder="37">
           <navLabel>
             <text>SLATE WORK.</text>
           </navLabel>
           <content src="f1.html#id00182"/>
         </navPoint>
-      </navPoint>
-      <navPoint id="np-35" playOrder="35">
+      
+      <navPoint id="np-38" playOrder="38">
         <navLabel>
           <text>LESSON XIX.</text>
         </navLabel>
         <content src="f1.html#id00185"/>
       </navPoint>
-      <navPoint id="np-36" playOrder="36">
+
+      <navPoint id="np-39" playOrder="39">
         <navLabel>
           <text>LESSON XX.</text>
         </navLabel>
         <content src="f1.html#id00193"/>
       </navPoint>
-      <navPoint id="np-37" playOrder="37">
+
+      <navPoint id="np-40" playOrder="40">
         <navLabel>
           <text>LESSON XXI.</text>
         </navLabel>
         <content src="f1.html#id00200"/>
       </navPoint>
-      <navPoint id="np-38" playOrder="38">
+
+      <navPoint id="np-41" playOrder="41">
         <navLabel>
           <text>LESSON XXII.</text>
         </navLabel>
         <content src="f1.html#id00210"/>
       </navPoint> 
-      <navPoint id="np-39" playOrder="39">
+
+      <navPoint id="np-42" playOrder="42">
         <navLabel>
           <text>LESSON XXIII.</text>
         </navLabel>
         <content src="f1.html#id00218"/>
       </navPoint>
-      <navPoint id="np-40" playOrder="40">
+
+      <navPoint id="np-43" playOrder="43">
         <navLabel>
           <text>LESSON XXIV.</text>
         </navLabel>
         <content src="f1.html#id00229"/>
       </navPoint>
-      <navPoint id="np-41" playOrder="41">
+
+      <navPoint id="np-44" playOrder="44">
         <navLabel>
           <text>LESSON XXV.</text>
         </navLabel>
         <content src="f1.html#id00236"/>
       </navPoint>
-      <navPoint id="np-42" playOrder="42">
+
+      <navPoint id="np-45" playOrder="45">
         <navLabel>
           <text>LESSON XXVI.</text>
         </navLabel>
         <content src="f1.html#id00246"/>
-        <navPoint id="np-43" playOrder="43">
+      </navPoint>
+
+        <navPoint id="np-46" playOrder="46">
           <navLabel>
             <text>LESSON XXVII. REVIEW</text>
           </navLabel>
           <content src="f1.html#id00254"/>
         </navPoint>
-      </navPoint>
-      <navPoint id="np-44" playOrder="44">
+
+      <navPoint id="np-47" playOrder="47">
         <navLabel>
           <text>LESSON XXVIII.</text>
         </navLabel>
         <content src="f1.html#id00260"/>
       </navPoint>
-      <navPoint id="np-45" playOrder="45">
+
+      <navPoint id="np-48" playOrder="48">
         <navLabel>
           <text>LESSON XXIX.</text>
         </navLabel>
         <content src="f1.html#id00268"/>
-        <navPoint id="np-46" playOrder="46">
+      </navPoint>
+
+        <navPoint id="np-49" playOrder="49">
           <navLabel>
             <text>SLATE WORK.</text>
           </navLabel>
           <content src="f1.html#id00276"/>
-        </navPoint>
       </navPoint>
-      <navPoint id="np-47" playOrder="47">
+
+      <navPoint id="np-50" playOrder="50">
         <navLabel>
           <text>LESSON XXX.</text>
         </navLabel>
         <content src="f1.html#id00279"/>
-        <navPoint id="np-48" playOrder="48">
+        </navPoint>
+        
+       <navPoint id="np-51" playOrder="51">
           <navLabel>
             <text>SLATE WORK.</text>
           </navLabel>
           <content src="f1.html#id00290"/>
-        </navPoint>
       </navPoint>
-      <navPoint id="np-49" playOrder="49">
+
+      <navPoint id="np-52" playOrder="52">
         <navLabel>
           <text>LESSON XXXI.</text>
         </navLabel>
         <content src="f1.html#id00293"/>
       </navPoint>
-      <navPoint id="np-50" playOrder="50">
+
+      <navPoint id="np-53" playOrder="53">
         <navLabel>
           <text>LESSON XXXII.</text>
         </navLabel>
         <content src="f1.html#id00303"/>
       </navPoint>
-      <navPoint id="np-51" playOrder="51">
+
+      <navPoint id="np-54" playOrder="54">
         <navLabel>
           <text>LESSON XXXIII. REVIEW.</text>
         </navLabel>
         <content src="f1.html#id00312"/>
       </navPoint>
-      <navPoint id="np-52" playOrder="52">
+
+      <navPoint id="np-55" playOrder="55">
         <navLabel>
           <text>LESSON XXXIV.</text>
         </navLabel>
         <content src="f1.html#id00318"/>
       </navPoint>
-      <navPoint id="np-53" playOrder="53">
+
+      <navPoint id="np-56" playOrder="56">
         <navLabel>
           <text>LESSON XXXV.</text>
         </navLabel>
         <content src="f1.html#id00332"/>
-        <navPoint id="np-54" playOrder="54">
-          <navLabel>
-            <text>THE WHITE KITTEN.</text>
-          </navLabel>
-          <content src="f1.html#id00336"/>
         </navPoint>
-      </navPoint>
-      <navPoint id="np-55" playOrder="55">
+
+      <navPoint id="np-57" playOrder="57">
         <navLabel>
           <text>LESSON XXXVI.</text>
         </navLabel>
         <content src="f1.html#id00340"/>
       </navPoint>
-      <navPoint id="np-56" playOrder="56">
+
+      <navPoint id="np-58" playOrder="58">
         <navLabel>
           <text>LESSON XXXVII.</text>
         </navLabel>
         <content src="f1.html#id00347"/>
       </navPoint>
-      <navPoint id="np-57" playOrder="57">
+
+      <navPoint id="np-59" playOrder="59">
         <navLabel>
           <text>LESSON XXXVIII.</text>
         </navLabel>
         <content src="f1.html#id00356"/>
       </navPoint>
-      <navPoint id="np-58" playOrder="58">
+
+      <navPoint id="np-60" playOrder="60">
         <navLabel>
           <text>LESSON XXXIX.</text>
         </navLabel>
         <content src="f1.html#id00363"/>
       </navPoint>
-      <navPoint id="np-59" playOrder="59">
+
+      <navPoint id="np-61" playOrder="61">
         <navLabel>
           <text>LESSON XL.</text>
         </navLabel>
         <content src="f1.html#id00371"/>
       </navPoint>
-      <navPoint id="np-60" playOrder="60">
+
+      <navPoint id="np-62" playOrder="62">
         <navLabel>
           <text>LESSON XLI.</text>
         </navLabel>
         <content src="f1.html#id00380"/>
       </navPoint>
-      <navPoint id="np-61" playOrder="61">
+
+
+      <navPoint id="np-63" playOrder="63">
         <navLabel>
           <text>LESSON XLII.</text>
         </navLabel>
         <content src="f1.html#id00392"/>
       </navPoint>
-      <navPoint id="np-62" playOrder="62">
+
+      <navPoint id="np-64" playOrder="64">
         <navLabel>
           <text>LESSON XLIII.</text>
         </navLabel>
         <content src="f1.html#id00401"/>
       </navPoint>
-      <navPoint id="np-63" playOrder="63">
+
+      <navPoint id="np-65" playOrder="65">
         <navLabel>
           <text>LESSON XLIV.</text>
         </navLabel>
         <content src="f1.html#id00416"/>
       </navPoint>
-      <navPoint id="np-64" playOrder="64">
+
+      <navPoint id="np-66" playOrder="66">
         <navLabel>
           <text>LESSON XLV.</text>
         </navLabel>
         <content src="f1.html#id00428"/>
       </navPoint>
-      <navPoint id="np-65" playOrder="65">
+
+      <navPoint id="np-67" playOrder="67">
         <navLabel>
           <text>LESSON XLVI. REVIEW.</text>
         </navLabel>
         <content src="f1.html#id00437"/>
       </navPoint>
-      <navPoint id="np-66" playOrder="66">
+
+      <navPoint id="np-68" playOrder="68">
         <navLabel>
           <text>LESSON XLVII.</text>
         </navLabel>
         <content src="f1.html#id00448"/>
       </navPoint>
-      <navPoint id="np-67" playOrder="67">
+
+      <navPoint id="np-69" playOrder="69">
         <navLabel>
           <text>LESSON XLVIII.</text>
         </navLabel>
         <content src="f1.html#id00458"/>
       </navPoint>
-      <navPoint id="np-68" playOrder="68">
+
+      <navPoint id="np-70" playOrder="70">
         <navLabel>
           <text>LESSON XLIX.</text>
         </navLabel>
         <content src="f1.html#id00467"/>
-        <navPoint id="np-69" playOrder="69">
+        </navPoint>
+
+        <navPoint id="np-71" playOrder="71">
           <navLabel>
             <text>SLATE WORK</text>
           </navLabel>
           <content src="f1.html#id00470"/>
         </navPoint>
-      </navPoint>
-      <navPoint id="np-70" playOrder="70">
+
+      <navPoint id="np-72" playOrder="72">
         <navLabel>
           <text>LESSON L.</text>
         </navLabel>
         <content src="f1.html#id00473"/>
       </navPoint>
-      <navPoint id="np-71" playOrder="71">
+
+      <navPoint id="np-73" playOrder="73">
         <navLabel>
           <text>LESSON LI.</text>
         </navLabel>
         <content src="f1.html#id00483"/>
       </navPoint>
-      <navPoint id="np-72" playOrder="72">
+
+      <navPoint id="np-74" playOrder="74">
         <navLabel>
           <text>LESSON LII.</text>
         </navLabel>
         <content src="f1.html#id00491"/>
       </navPoint>
-      <navPoint id="np-73" playOrder="73">
+
+      <navPoint id="np-75" playOrder="75">
         <navLabel>
           <text>LESSON LIII.</text>
         </navLabel>
         <content src="f1.html#id00505"/>
       </navPoint>
-      <navPoint id="np-74" playOrder="74">
+
+      <navPoint id="np-76" playOrder="76">
         <navLabel>
           <text>LESSON LIV.</text>
         </navLabel>
         <content src="f1.html#id00515"/>
       </navPoint>
-      <navPoint id="np-75" playOrder="75">
+
+      <navPoint id="np-77" playOrder="77">
         <navLabel>
           <text>LESSON LV.</text>
         </navLabel>
         <content src="f1.html#id00529"/>
       </navPoint>
-      <navPoint id="np-76" playOrder="76">
+
+      <navPoint id="np-78" playOrder="78">
         <navLabel>
           <text>LESSON LVI.</text>
         </navLabel>
         <content src="f1.html#id00538"/>
-        <navPoint id="np-77" playOrder="77">
+        </navPoint>
+
+        <navPoint id="np-79" playOrder="79">
           <navLabel>
             <text>SLATE WORK.</text>
           </navLabel>
           <content src="f1.html#id00546"/>
-        </navPoint>
       </navPoint>
-      <navPoint id="np-78" playOrder="78">
+
+      <navPoint id="np-80" playOrder="80">
         <navLabel>
           <text>LESSON LVII.</text>
         </navLabel>
         <content src="f1.html#id00549"/>
       </navPoint>
-      <navPoint id="np-79" playOrder="79">
+
+      <navPoint id="np-81" playOrder="81">
         <navLabel>
           <text>LESSON LVIII.</text>
         </navLabel>
         <content src="f1.html#id00561"/>
       </navPoint>
-      <navPoint id="np-80" playOrder="80">
+
+      <navPoint id="np-82" playOrder="82">
         <navLabel>
           <text>LESSON LIX.</text>
         </navLabel>
         <content src="f1.html#id00568"/>
       </navPoint>
-      <navPoint id="np-81" playOrder="81">
+
+      <navPoint id="np-83" playOrder="83">
         <navLabel>
           <text>LESSON LX.</text>
         </navLabel>
         <content src="f1.html#id00578"/>
       </navPoint>
-      <navPoint id="np-82" playOrder="82">
+
+      <navPoint id="np-84" playOrder="84">
         <navLabel>
           <text>LESSON LXI.</text>
         </navLabel>
         <content src="f2.html#id00590"/>
       </navPoint>
-      <navPoint id="np-83" playOrder="83">
+
+      <navPoint id="np-85" playOrder="85">
         <navLabel>
           <text>LESSON LXII.</text>
         </navLabel>
         <content src="f2.html#id00604"/>
       </navPoint>
-      <navPoint id="np-84" playOrder="84">
+
+      <navPoint id="np-86" playOrder="86">
         <navLabel>
           <text>LESSON LXIII.</text>
         </navLabel>
